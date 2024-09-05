@@ -3,10 +3,10 @@ name: Hola Mundo
 on:
     push:
       branches:
-        -main
-        -develop
-        -releases
-        -hotfix
+        - main
+        - develop
+        - releases
+        - hotfix
         
 jobs:
   Saludos:
